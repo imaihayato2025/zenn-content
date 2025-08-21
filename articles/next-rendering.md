@@ -2,7 +2,7 @@
 title: "Next.js 各レンダリング方法を例えつきで解説"
 emoji: "💻️"
 type: "tech" # tech: 技術記事 / idea: アイデア
-topics: ["next"]
+topics: ["Next.js", "Vercel", "フロントエンド"]
 published: true
 publication_name: "desiennz" # ← ここにチームブログ名（URLスラッグ）を入れる
 ---
